@@ -1,4 +1,4 @@
-
+//hello all
 public class BinarySearch {
     public static int binarySearch(int[] arr,int k,int start,int end){
 

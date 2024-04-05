@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// just added a comment right here
 class JavaHelper{
     public static boolean isMinimumDistant(int d,int k,int n,int stalls[]){
 
